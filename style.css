@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Reggae+One&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    background-color: #1F1F1F;
+    color: white;
+     font-family: "Reggae One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 1.2em;
+}
+#myVideo{
+    width: 100%;
+}
+#clip{
+    text-align: center;
+}
+#clip_name{
+    text-align: center;
+    /* margin-left: 15%; */
+}
+.f_clip{
+    float: left;
+
+}
+.clip{
+    width: 40%;
+    align-items: center;
+}
+#video{
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+}
+#Merch{
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+}
+.headmerch{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.merch_video{
+    width: 40%;
+}
+.photomerch{
+    width: 40%;
+}
+#about{
+    text-align: center;
+    background-color: black;
+}
+#headabout{
+    text-align: center;
+     justify-content: center;
+    display: flex;
+}
+.soc{
+    color: red;
+    text-align: center;
+     justify-content: center;
+    display: flex;
+    text-decoration: none;
+    background-color: black;
+
+}
+#headsoc{
+    text-align: center;
+     justify-content: center;
+    display: flex;
+    text-decoration: none;
+
+}
